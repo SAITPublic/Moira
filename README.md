@@ -133,5 +133,3 @@ to their own licenses.
   year      = {2026}
 }
 ```
-# Moira
-# Moira
